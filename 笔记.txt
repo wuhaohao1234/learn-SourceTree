@@ -15,3 +15,5 @@
     git commit -m "提交到dev分支"
 5. 推送dev分支
     git push origin dev
+6. 将dev分支本地合并到master分支
+    
