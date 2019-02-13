@@ -1,1 +1,7 @@
 修改readme.md文件，提交master主分支
+1. 暂存所有文件 
+    git add -A
+2. 提交
+    git commit -m "文件注释"
+3. 推送
+    git push
